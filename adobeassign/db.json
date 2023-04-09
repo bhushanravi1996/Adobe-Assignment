@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "name": "lll",
+      "bio": "jjj",
+      "email": "",
+      "id": 4
+    },
+    {
+      "name": "Ravi bhushan",
+      "bio": "lypsem googl",
+      "email": "",
+      "id": 5
+    },
+    {
+      "name": "shyam",
+      "bio": "lypsem",
+      "email": "",
+      "id": 6
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "First post",
+      "content": "Lorem ipsum...",
+      "userId": 1,
+      "likes": 1
+    },
+    {
+      "title": "Second post",
+      "content": "Dolor sit amet...",
+      "userId": 2,
+      "id": 2,
+      "likes": 2
+    }
+  ]
+}
